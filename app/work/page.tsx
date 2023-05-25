@@ -1,5 +1,5 @@
 import { ArrowIcon } from 'components/icons'
-import { workContent } from 'content/workContent'
+import { workContent } from '../../content/workContent'
 import Link from 'next/link'
 import React from 'react'
 

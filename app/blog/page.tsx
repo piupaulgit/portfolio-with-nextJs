@@ -1,4 +1,4 @@
-import { allBlogs } from 'content/blogContent';
+import { allBlogs } from '../../content/blogContent';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
